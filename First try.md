@@ -1,3 +1,3 @@
 # First try
 
-Text and Git try
+Try Git - clone and deploy
